@@ -47,7 +47,7 @@
 - 展開後chronuslay-mainを開きchronuslay.exeの上でダブルクリックしゲームを起動する
 
 ### **↓ソースコードが見たい方はこちらから↓**
-- https://github.com/Fhunii/Project-Rogue-lite-History/tree/main
+- https://github.com/Fhunii/Project-Rogue-lite-History
 
 ## お問い合わせ
    なにかうまく実行できない等あれば　huni.fanta.4288@gmail.com　までご連絡ください
